@@ -6,25 +6,46 @@ Haz tu Fork Siguiendo el reto diario
 💡 Objetivo: Fortalecer lógica, uso de variables, bucles, funciones y estructuras de datos básicas.
 
 1️⃣ "Hola, mundo" – Imprime un mensaje en pantalla.
+
 2️⃣ Calculadora simple – Suma, resta, multiplica y divide dos números.
+
 3️⃣ Par o impar – Determina si un número es par o impar.
+
 4️⃣ Tabla de multiplicar – Muestra la tabla de multiplicar de un número dado.
+
 5️⃣ Contador del 1 al 100 con for.
+
 6️⃣ Suma de números en un rango dado.
+
 7️⃣ Juego de adivinar un número aleatorio.
+
 8️⃣ Cálculo del factorial de un número.
+
 9️⃣ Generador de contraseñas aleatorias.
+
 🔟 Conversor de temperatura (Celsius ↔ Fahrenheit).
+
 1️⃣1️⃣ Lista de números y cálculo de máximo, mínimo y promedio.
+
+
 1️⃣2️⃣ Diccionario de contactos (nombre y teléfono).
+
 1️⃣3️⃣ Uso de tuplas y conjuntos en una lista de compras.
+
 1️⃣4️⃣ Función que determine si una palabra es palíndroma.
+
 1️⃣5️⃣ Contador de palabras en una frase.
+
 1️⃣6️⃣ Modifica el clásico FizzBuzz con condiciones personalizadas.
+
 1️⃣7️⃣ Juego de piedra, papel o tijera contra la computadora.
+
 1️⃣8️⃣ Simulador de tienda con listas y diccionarios.
+
 1️⃣9️⃣ Sistema de agenda con archivos .txt.
+
 2️⃣0️⃣ Mini chatbot de respuestas predefinidas.
+
 
 
 📌 Días 21-40: POO y Programación Modular
