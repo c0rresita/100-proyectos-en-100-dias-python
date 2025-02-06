@@ -5,7 +5,7 @@ Haz tu Fork Siguiendo el reto diario
 📌 Días 1-20: Fundamentos y Lógica de Programación
 
 💡 Objetivo: Fortalecer lógica, uso de variables, bucles, funciones y estructuras de datos básicas.
-
+<br>
 
 
 1️⃣ "Hola, mundo" – Imprime un mensaje en pantalla.
